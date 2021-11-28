@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SpAaINqxofm5iS88AcLY13K22ZNlnIP0gv3E7i9alu71WoOj5q3claLk6fY37h3Ufocv8sETuIbmK/c+6uSzuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Patrick\\source\\repos\\Trainer-Resident-Evil-4\\Trainer-Resident-Evil-4\\Trainer-Resident-Evil-4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patrick\\.nuget\\packages\\memory.dll.x64\\1.2.21\\memory.dll.x64.1.2.21.nupkg.sha512",
+    "C:\\Users\\Patrick\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
